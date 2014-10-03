@@ -3,7 +3,7 @@ Sass-Starter-Kit
 
     Sass Starter Kit/
     ├── Identity/
-    │   ├── _colors.scss
+    │   ├── _colours.scss
     │   ├── _typography.scss
     │   ├── _iconography.scss
     │   └── 
